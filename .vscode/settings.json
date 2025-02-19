@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./PX4-Autopilot/src/modules/mavlink/mavlink"
+    ]
+}
